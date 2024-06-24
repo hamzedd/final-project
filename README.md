@@ -18,4 +18,3 @@ Run the `MockPresentation` class to see a mock presentation layer in action.
 
 ## Diagrams
 UML diagrams are available in the `docs` directory.
-![image](https://github.com/hamzedd/final-project/assets/173729857/a07388d6-39a7-445b-a3da-c0bdc27a2ab4)
